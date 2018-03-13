@@ -6,4 +6,6 @@ You are given observations for 10000 runs of the angle observed at each step. Yo
 
 Goal:  predict the final location of the bot at the 1001'th step for rounds 6001 to 10000.
 
+Implement: run kernelizedSVMs.py
+
 Kaggle Link: https://www.kaggle.com/c/competition-2-cs4786-fall-17
